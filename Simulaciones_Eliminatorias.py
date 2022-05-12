@@ -1,8 +1,11 @@
 # -*- coding: utf-8 -*-
 """
-Spyder Editor
+After the victory of Ecuador in Santiago I propose estimate the probability of qualifying
+with 3 games to play. I do this exercise simulating 5000 times the remaining games. 
+The results gives Ecuador around 99.8% of qualifying. The output of this code is a 
+boxplots chart of the points estimated by each national team and a gif with the evolution 
+of  the simulations.
 
-This is a temporary script file.
 """
 
 import pandas as pd
